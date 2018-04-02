@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="type">Choose type</string>
+
+    <string-array name="entityid">
+        <item>city</item>
+        <item>subzone</item>
+        <item>zone</item>
+        <item>landmark</item>
+        <item>metro</item>
+        <item>group</item>
+    </string-array>
+
+    <string name="order">Order By</string>
+    <string-array name="order">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+
+
+    <string name="sort">Sort By</string>
+    <string-array name="sort">
+        <item>Cost</item>
+        <item>Rating</item>
+    </string-array>
+</resources>
